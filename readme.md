@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to develop and deploy an advanced recommender system using state-of-the-art algorithms. It involves data gathering, algorithm selection and optimization, performance evaluation, and deployment on AWS with Hadoop and Spark integration. The goal is to improve user experience and increase sales by providing personalized product recommendations.
+This project aims to develop and deploy an advanced recommender system. It involves data gathering, algorithm selection and optimization, performance evaluation, and deployment on AWS with Hadoop and Spark integration. The goal is to improve user experience and increase sales by providing personalized product recommendations.
 
 ## Contents
 
@@ -15,8 +15,6 @@ This project aims to develop and deploy an advanced recommender system using sta
 - [Usage](#usage)
 - [Results](#results)
 - [How It Works](#how-it-works)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Installation
 
@@ -168,11 +166,3 @@ The hybrid recommendation system successfully combines the strengths of content-
 1. **Combination**: Merges recommendations from both content-based and collaborative filtering systems.
 2. **Deduplication**: Ensures no duplicates in the final recommendation list.
 3. **Final Output**: Provides a diverse set of recommendations leveraging both systems.
-
-## Contributors
-
-- **saurabh4269** - [GitHub](https://github.com/saurabh4269)
-
-## License
-
-This project is licensed under the MIT License.
